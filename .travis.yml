@@ -1,0 +1,3 @@
+languaje: node.js
+node_js:
+  - "6"
